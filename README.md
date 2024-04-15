@@ -69,21 +69,3 @@ We only show one vs. rest CIFAR-10 results in this repo. For other settings, ple
 We only show one vs. rest CIFAR-10 results in this repo. For other settings, please see our paper.
 
 *For other benchmarks like few-shot OOD benchmark, please see our paper*
-
-# Citation
-```
-@misc{legia2023understanding,
-      title={Understanding normalization in contrastive representation learning and out-of-distribution detection}, 
-      author={Tai Le-Gia and Jaehyun Ahn},
-      year={2023},
-      eprint={2312.15288},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-```# OECL
-# realOECL
-# realOECL
-# realOECL
-# realOECL
-# realOECL
-# realOECL
